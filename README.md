@@ -19,7 +19,7 @@
 ### NER应用 （Baseline model）
 * word2vec + BiLSTM + CRF (word-level)  
   * 31/31 [==============================] - 2s 77ms/step
-  * ###Test###, epoch: 10 | F1: 95.0353c| precision: 95.009 | recall: 0.9506
+  * ###Test###, epoch: 10 | F1: 95.0353 | precision: 95.009 | recall: 0.9506
   * 模型的代码过几天再更，最近事情较多.......
 * BERT + BiLSTM + CRF (character-level) 
 * word + character
